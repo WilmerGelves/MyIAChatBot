@@ -27,8 +27,8 @@ ChatBot interactivo para consultas de inventario y ventas, construido con [Next.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd myia-chatbot
+git clone https://github.com/WilmerGelves/MyIAChatBot.git
+cd MyIAChatBot
 ```
 
 ### 2. Instalar dependencias
